@@ -6,6 +6,7 @@ This will be a repository of resources (free & paid) for downloading data based 
 https://github.com/topics/tweets-extraction :github repositories related to tweet extraction. <br>
 https://www.trendsmap.com/historical : Historical chart based on hashtags availabe for free. Simple google trends like interface. <br>
 https://www.tweetbinder.com/ <br>
-https://keyhole.co/hashtag-tracking/dashboard/5J2coj/SEO  : This is a sample dashboard. Provides trend charts based on multiple sources. 7 Days free trial available. Special request needed to download data.
+https://keyhole.co/hashtag-tracking/dashboard/5J2coj/SEO  : This is a sample dashboard. Provides trend charts based on multiple sources. 7 Days free trial available. Special request needed to download data. <br>
+https://www.exportdata.io/download-tweets
 
 # Facebook Data
